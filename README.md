@@ -56,40 +56,6 @@ The dataset contains information such as:
 - KaggleHub
 
 ---
-
-## 🔄 Project Workflow
-
-```text
-Dataset
-   ↓
-Data Cleaning
-   ↓
-Exploratory Data Analysis
-   ↓
-Feature Engineering
-   ↓
-Encoding & Scaling
-   ↓
-Train-Test Split
-   ↓
-Multiple ML Models
-   ↓
-Model Evaluation
-   ↓
-Cross Validation
-   ↓
-Best Model Selection
-   ↓
-Threshold Optimization
-   ↓
-Churn Prediction
-   ↓
-Risk Classification
-   ↓
-Explainability
-   ↓
-Retention Recommendation
-
 🧠 Machine Learning Models
 The following classification algorithms were implemented:
 1. Logistic Regression
@@ -169,6 +135,42 @@ Provide personalized retention discounts, long-term contract offers and priority
 - Add customer segmentation using clustering.
 - Integrate the system with CRM platforms.
 - Develop automated retention campaigns.
+- 
+
+## 🔄 Project Workflow
+
+```text
+Dataset
+   ↓
+Data Cleaning
+   ↓
+Exploratory Data Analysis
+   ↓
+Feature Engineering
+   ↓
+Encoding & Scaling
+   ↓
+Train-Test Split
+   ↓
+Multiple ML Models
+   ↓
+Model Evaluation
+   ↓
+Cross Validation
+   ↓
+Best Model Selection
+   ↓
+Threshold Optimization
+   ↓
+Churn Prediction
+   ↓
+Risk Classification
+   ↓
+Explainability
+   ↓
+Retention Recommendation
+
+
 
 👩‍💻 Author
 Riya Sharma
