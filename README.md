@@ -144,15 +144,14 @@ Provide personalized retention discounts, long-term contract offers and priority
 
 The project compares five classification models based on Accuracy, Precision, Recall, F1-Score and ROC-AUC.
 
-![Model Comparison](screenshots/model_comparison.png)
-
+![Model Comparison](./screenshots/model_comparison.png)
 ---
 
 ### Confusion Matrix
 
 The confusion matrix shows the classification performance of the final Logistic Regression model.
 
-![Confusion Matrix](screenshots/confusion_matrix.png)
+![Confusion Matrix](./screenshots/confusion_matrix.png)
 
 ---
 
@@ -160,15 +159,13 @@ The confusion matrix shows the classification performance of the final Logistic 
 
 The Logistic Regression model achieved an ROC-AUC score of approximately **0.845**.
 
-![ROC Curve](screenshots/roc_curve.png)
-
+![ROC Curve](./screenshots/roc_curve.png)
 ---
 
 ### Feature Importance
 
 The feature importance analysis identifies the major factors associated with customer churn.
-
-![Feature Importance](screenshots/feature_importance.png)
+![Feature Importance](./screenshots/feature_importance.png)
 
 ---
 
@@ -176,7 +173,7 @@ The feature importance analysis identifies the major factors associated with cus
 
 Different classification thresholds were evaluated. A threshold of **0.35** was selected to improve churn detection and achieve a better F1/Recall balance.
 
-![Threshold Analysis](screenshots/threshold_analysis.png)
+![Threshold Analysis](./screenshots/threshold_analysis.png)
 
 ---
 
@@ -184,7 +181,7 @@ Different classification thresholds were evaluated. A threshold of **0.35** was 
 
 The system generates an individual churn probability, risk level and retention recommendation for a customer.
 
-![Customer Prediction](screenshots/customer_prediction.png)
+![Customer Prediction](./screenshots/customer_prediction.png)
 ## 🔄 Project Workflow
 
 ```text
